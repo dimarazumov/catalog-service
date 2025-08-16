@@ -1,6 +1,6 @@
 spring:
   application:
-    name: "my-microservice"catalog-service
+    name: "catalog-service"
 
 server:
   port: 9001
